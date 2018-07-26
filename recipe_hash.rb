@@ -1,4 +1,17 @@
 #code your solutions here
+ingredients_and_amounts = {
+  :almond flour => "2 cups" 
+  :gluten freewhole oats => "1 cup" 
+  :kosher salt => "0.5 tea spoon"
+  :baking powder => 0.5 "tea spoon" 
+  :baking soda => "0.25 tea sppon" 
+  :Xanthan gum => "0.5 tea spoon" 
+  :slivered almonds, slightly toasted => "0.25 cup" 
+  :mini dark chocalate chips => "0.75 cup"
+  :olive oil => "0.5 cup" 
+  :agave => "0.25 cup" 
+  
+}
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
